@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-30",
+  "target_new_verified_full_time": 300,
+  "verified_qualifying_unique": 8,
+  "new_since_last_checkpoint": 8,
+  "distinct_employers": 3,
+  "verified_by_source_category": {
+    "Direct employer careers": 8
+  },
+  "duplicates_removed_within_saved_records": 0,
+  "exclusion_records": 11,
+  "review_records": 10,
+  "date_unknown_records": 12,
+  "older_strong_records": 2,
+  "unverified_leads": 2,
+  "cross_day_deduplication": "INCOMPLETE: no earlier master file available",
+  "github_username_target": "akshu-69",
+  "github_publication_status": "PENDING: GitHub account connected as akshu-69, but GitHub connector cannot create repositories; Job_search not accessible through connector as of 2026-10-30.",
+  "scheduled_search_status": "NOT SCHEDULED",
+  "data_files": [
+    "data/master_verified.csv",
+    "data/review.csv",
+    "data/date_unknown.csv",
+    "data/older_strong_matches.csv",
+    "data/unverified_leads.csv",
+    "data/exclusions.csv",
+    "data/seen_requisitions.csv",
+    "data/applications_tracker.csv"
+  ],
+  "search_log": "logs/2026-10-30_search_coverage.csv",
+  "resume_used": "Akshitha_Yedla_FullStackAI(2).pdf; no private contact data committed",
+  "last_verified_on": "2026-10-30",
+  "remaining_source_categories": [
+    "institutional university/hospital employer sites",
+    "startup YC/Wellfound direct ATS",
+    "staffing official individual postings",
+    "municipal/state government",
+    "detailed pagewise iCIMS/SmartRecruiters/Workable/Jobvite",
+    "continued broad boards and industry diversity"
+  ],
+  "continuation_instructions": "Load all data/*.csv and seen_requisitions.csv. On continue, search unsearched coverage sources first, check each official original date <=14 days from run date and open status; dedup employer+req then canonical URL; append only NEW verified qualifying jobs; refresh checkpoint and logs. Do not re-count previously saved requisitions.",
+  "older_strong_matches_records": 2,
+  "github_repository_name_requested": "Job_search",
+  "github_repository_target": "akshu-69/Job_search",
+  "ready_to_apply": "ready-to-apply/APPLY_LINKS.md (8 verified)",
+  "all_collected_links": "all-collected-links/ALL_LINKS.md (34 categorized)"
+}
