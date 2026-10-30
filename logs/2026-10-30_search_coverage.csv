@@ -1,0 +1,16 @@
+﻿geography,source_category,employers_or_examples,coverage_result,remaining_gap
+Massachusetts (Boston/Cambridge/Burlington/Worcester),Employer Workday,State Street; TSYS,Indexed requisitions; relative dates and possible eligibility limits,More exact-date employer confirmation needed
+Massachusetts,Employer Greenhouse,QuEra Computing,Official individual job; original date absent,Check Boston startups/biotech and public schools
+Northeast and US-wide,Employer careers,Citi,Exact req/posting date/close date checked; many stale anticipated close dates,Expand outside top employers and avoid concentration
+US nationwide / remote,Employer careers,Optum / UnitedHealth Group,"Exact job dates, salary, req, telecommute; reviewed restrictions",Search additional healthcare and insurer employers
+US nationwide,Employer careers,Moody's,Exact October 29 job and 13971 verified,Other finance employers to search
+US nationwide,Employer Ashby,Archy; Real REMAX; Vesta; Camunda; Hipp,Active individual pages but posting date not provided,Find authoritative original creation dates; verify requirements
+US nationwide,Employer Greenhouse,GHX; Britive; QuEra,Active pages; dates absent,Public ATS feed missing creation dates through accessible interface
+US nationwide,Employer Lever,Egen; Jobgether,Date missing; lead people management ambiguous,"Review eligibility, skill depth and management"
+US nationwide,LinkedIn / Indeed / Dice / Glassdoor / ZipRecruiter / Monster / CareerBuilder,Indexed searches,"Mostly previews, duplicate board cross-posts or inaccessible details",Reconcile back to employer original pages
+Massachusetts and US-wide,University / hospitals / research,Research query coverage; no qualifying dated official requisition confirmed,Not exhausted,"Search Harvard, MIT, BU, UMass, academic hospitals"
+US nationwide,Staffing/recruiting,Eliassen; Rose International leads,Contract/board-only lead; employer official verification incomplete,Collect agency original URLs and separate contracts
+US nationwide,Public sector / nonprofits,Initial topical searches,No date-qualified individual req confirmed,Expand state/local/city digital services and nonprofits
+US nationwide,iCIMS/SmartRecruiters/Workable/Jobvite/Taleo/Oracle/ADP/SuccessFactors,Initial domain/site search queries,Not comprehensively paginated,Expand dedicated API/pagination by site
+US nationwide,Startups YC/Wellfound/Built In,Initial indexed discovery,No fully date-verified 14-day job yet,Search direct startup ATS pages by specialty
+US nationwide,Industries,Banking; payments; healthcare; SaaS; enterprise cloud; research; financial risk,Not broad/complete across logistics retail telecom energy consulting manufacturing,Prioritize industry breadth on next session
